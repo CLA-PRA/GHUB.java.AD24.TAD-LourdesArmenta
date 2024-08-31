@@ -38,13 +38,13 @@ public class Fecha {
 		}
 		
 		nuevaFecha= new Fecha(dia,mes,anio);
-		return nuevaFecha;
+		//colocar el código faltante
 	}
 	public Fecha addDias(int d) {
 		//convertir la fecha a dias y le sumamos d
 		int suma =fechaToDias()+d;
 		//la fecha resultante se separa en dia, mes y año
-		return diasToFecha(suma);
+		//coloca aquí el código faltante
 	}
 	
 	//constructos

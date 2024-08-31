@@ -37,14 +37,14 @@ public class Matriz {
         if (r>=n || c>=m || r<0 || c<0){
             throw new PosicionIlegalException();
         }
-        matriz[r][c]=valor;
+        //coloca aquí el código faltante
 
     }
     public int infoMat(int r, int c) throws PosicionIlegalException{ 
         if (r>=n || c>=m || r<0 || m<0){
             throw new PosicionIlegalException();
         }
-        return matriz[r][c];
+        //coloca aquí el código faltante
     }
     public int filasMat(){
         return n;
