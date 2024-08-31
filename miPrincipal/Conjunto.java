@@ -38,7 +38,7 @@ public class Conjunto {
 			cto[cardinal++] = elemento;
 			c.cto = cto;
 		}
-		return c;
+		//return c;
 	}
 	//quita el elemento del conjunto
 
